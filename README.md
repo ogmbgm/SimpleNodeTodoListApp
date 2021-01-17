@@ -1,2 +1,2 @@
 # SimpleNodeTodoListApp
-A SimpleNodeTodoListApp that uses node, express, mongo, and bootstrap!test
+A SimpleNodeTodoListApp that uses node, express, mongo, and bootstrap!test2
